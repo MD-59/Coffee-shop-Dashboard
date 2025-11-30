@@ -7,7 +7,7 @@ This dashboard provides a comprehensive view of **store performance**, **product
 
 ## 📸 Dashboard Preview
 
-![Store Dashboard](f5ec0afc-b357-448a-8e99-6edb2bbab03e.png)
+![Store Dashboard](https://github.com/MD-59/Coffee-shop-Dashboard/blob/main/Screenshot%202025-12-01%20001015.png)
 
 ---
 
